@@ -8,8 +8,8 @@
 "dev": "vite --host 0.0.0.0",
 "build": "vite build",
 "preview": "vite preview --host 0.0.0.0",
-"typecheck": "node -e "console.log('No TypeScript files to check.')"",
-"lint": "node -e "console.log('No lint rules configured.')""
+"typecheck": "echo No TypeScript files to check",
+"lint": "echo No lint rules configured"
 },
 "devDependencies": {
 "vite": "^6.4.1"
